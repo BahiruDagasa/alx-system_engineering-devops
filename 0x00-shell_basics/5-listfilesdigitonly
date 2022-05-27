@@ -1,0 +1,9 @@
+#!/bin/bash
+total 20
+-rwxr-xr-x 1 0 0  53 May 27 09:12 0-current_working_directory
+-rwxr-xr-x 1 0 0  20 May 27 09:14 1-listit
+-rwxr-xr-x 1 0 0  71 May 27 08:57 2-bring_me_home
+-rwxr-xr-x 1 0 0 242 May 27 09:01 3-listfies
+-rwxr-xr-x 1 0 0 299 May 27 09:26 4-listmorefiles
+-rwxr-xr-x 1 0 0   0 May 27 09:28 5-listfilesdigitonly
+

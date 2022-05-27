@@ -1,0 +1,7 @@
+#!/bin/bash
+tota 20
+rwxr-xr-x 1 root root  53 May 27 09:12 0-current_working_directory
+-rwxr-xr-x 1 root root  20 May 27 09:14 1-listit
+-rw-r--r-- 1 root root  71 May 27 08:57 2-bring_me_home
+-rw-r--r-- 1 root root 242 May 27 09:01 3-listfies
+-rw-r--r-- 1 root root   0 May 27 09:20 4-listmorefiles
